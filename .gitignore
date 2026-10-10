@@ -1,0 +1,17 @@
+/target/
+**/*.rs.bk
+*.profraw
+*.profdata
+*.gcda
+*.gcno
+.rustfmt.stamp
+criterion/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
